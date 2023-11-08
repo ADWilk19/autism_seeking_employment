@@ -1,0 +1,199 @@
+name,iso_a3,est_autism_prevalence_per_10k
+Fiji,FJI,81.1
+Tanzania,TZA,83.1
+W. Sahara,ESH,83.83
+Canada,CAN,86.4
+United States of America,USA,80.9
+Kazakhstan,KAZ,80.7
+Uzbekistan,UZB,83
+Papua New Guinea,PNG,82.2
+Indonesia,IDN,83.6
+Argentina,ARG,81.4
+Chile,CHL,81.9
+DR Congo,COD,82.5
+Somalia,SOM,83.9
+Kenya,KEN,86.5
+Sudan,SDN,90.1
+Chad,TCD,82.4
+Haiti,HTI,83.7
+Dominican Republic,DOM,85.3
+Russia,RUS,77.1
+Bahamas,BHS,82.7
+Falkland Is.,FLK,83.8
+Norway,NOR,72
+Greenland,GRL,85.5
+Timor-Leste,TLS,82.9
+South Africa,ZAF,83.6
+Lesotho,LSO,84.8
+Mexico,MEX,89.9
+Uruguay,URY,80.8
+Brazil,BRA,82.5
+Bolivia,BOL,83.9
+Peru,PER,84.5
+Colombia,COL,85.8
+Panama,PAN,87.4
+Costa Rica,CRI,87.7
+Nicaragua,NIC,87.5
+Honduras,HND,88
+El Salvador,SLV,83.6
+Guatemala,GTM,86.5
+Belize,BLZ,85.9
+Venezuela,VEN,87
+Guyana,GUY,84.8
+Suriname,SUR,84.6
+France,FRA,69.3
+Ecuador,ECU,84.5
+Puerto Rico,PRI,81.9
+Jamaica,JAM,85
+Cuba,CUB,83.3
+Zimbabwe,ZWE,84.5
+Botswana,BWA,84.1
+Namibia,NAM,82.9
+Senegal,SEN,81.6
+Mali,MLI,82.7
+Mauritania,MRT,83.3
+Benin,BEN,81.9
+Niger,NER,81.9
+Nigeria,NGA,82.9
+Cameroon,CMR,82.5
+Togo,TGO,82.1
+Ghana,GHA,82
+Ivory Coast,CIV,83.1
+Guinea,GIN,82
+Guinea-Bissau,GNB,81.3
+Liberia,LBR,82.4
+Sierra Leone,SLE,81.3
+Burkina Faso,BFA,83.83
+Central African Republic,CAF,82.1
+Congo,COG,83.83
+Gabon,GAB,83
+Equatorial Guinea,GNQ,83.3
+Zambia,ZMB,84
+Malawi,MWI,83.5
+Mozambique,MOZ,82.2
+eSwatini,SWZ,84.8
+Angola,AGO,82.8
+Burundi,BDI,83.83
+Israel,ISR,75.1
+Lebanon,LBN,89.8
+Madagascar,MDG,82.8
+Palestine,PSE,91
+Gambia,GMB,82.4
+Tunisia,TUN,87.9
+Algeria,DZA,89.4
+Jordan,JOR,92.1
+United Arab Emirates,ARE,112.4
+Qatar,QAT,151.2
+Kuwait,KWT,97.7
+Iraq,IRQ,89.4
+Oman,OMN,107.2
+Vanuatu,VUT,81.5
+Cambodia,KHM,80.1
+Thailand,THA,78.1
+Laos,LAO,80.8
+Myanmar,MMR,79.3
+Vietnam,VNM,80.5
+North Korea,PRK,76.4
+South Korea,KOR,86.68
+Mongolia,MNG,82.3
+India,IND,88.5
+Bangladesh,BGD,85.3
+Bhutan,BTN,88.4
+Nepal,NPL,83.3
+Pakistan,PAK,86.7
+Afghanistan,AFG,91.2
+Tajikistan,TJK,84.8
+Kyrgyzstan,KGZ,83.2
+Turkmenistan,TKM,82.7
+Iran,IRN,90.3
+Syria,SYR,91.9
+Armenia,ARM,78.2
+Sweden,SWE,90.8
+Belarus,BLR,77.7
+Ukraine,UKR,77
+Poland,POL,81.2
+Austria,AUT,72.6
+Hungary,HUN,79.9
+Moldova,MDA,80.3
+Romania,ROU,80
+Lithuania,LTU,76.9
+Latvia,LVA,76.3
+Estonia,EST,77.6
+Germany,DEU,72.2
+Bulgaria,BGR,80
+Greece,GRC,72.4
+Turkey,TUR,87.8
+Albania,ALB,83.3
+Croatia,HRV,80.6
+Switzerland,CHE,73.8
+Luxembourg,LUX,74.6
+Belgium,BEL,73
+Netherlands,NLD,73.8
+Portugal,PRT,70.5
+Spain,ESP,73
+Ireland,IRL,77.8
+New Caledonia,NCL,83.52
+Solomon Islands,SLB,82.6
+New Zealand,NZL,85.5
+Australia,AUS,88.2
+Sri Lanka,LKA,78.7
+China,CHN,79.7
+Taiwan,TWN,77.2
+Italy,ITA,72
+Denmark,DNK,73.8
+United Kingdom,GBR,78.1
+Iceland,ISL,71.9
+Azerbaijan,AZE,81.9
+Georgia,GEO,78.9
+Philippines,PHL,81.8
+Malaysia,MYS,81.6
+Brunei,BRN,86.68
+Slovenia,SVN,81.8
+Finland,FIN,73.2
+Slovakia,SVK,82
+Czech Republic,CZE,81.7
+Eritrea,ERI,83.8
+Japan,JPN,85.8
+Paraguay,PRY,83.9
+Yemen,YEM,90.4
+Saudi Arabia,SAU,100.7
+N. Cyprus,CYN,73.9
+Cyprus,CYP,73.9
+Morocco,MAR,88.4
+Egypt,EGY,89.4
+Libya,LBY,90.6
+Ethiopia,ETH,83.4
+Djibouti,DJI,81.5
+Somaliland,-99,83.83
+Uganda,UGA,84
+Rwanda,RWA,83.83
+Bosnia and Herzegovina,BIH,82.8
+North Macedonia,MKD,83.5
+Serbia,SRB,81.6
+Montenegro,MNE,83.2
+Kosovo,KOS,77.35
+Trinidad and Tobago,TTO,82.9
+S. Sudan,SSD,83.83
+Bahrain,BHR,103.3
+Grenada,GRD,85.6
+Bermuda,BMU,85.4
+Saint Vincent and the Grenadines,VCT,84.8
+Dominica,DMA,84.7
+Comoros,COM,84
+Saint Lucia,LCA,83.8
+Republic of the Congo,COD,83.1
+Samoa,WSM,82.9
+Maldives,MDV,82.6
+Sao Tome and Principe,STP,82.6
+Marshall Islands,MHL,82.2
+American Samoa,ASM,82
+Northern Mariana Islands,MNP,81.9
+Tonga,TON,81.7
+Barbados,BRB,81.1
+Seychelles,SYC,80.9
+Guam,GUM,80.5
+Kiribati,KIR,80.1
+Malta,MLT,74.3
+Andorra,AND,74.1
+Mauritius,MUS,79.8
+United States Virgin Islands,VIR,79.7
