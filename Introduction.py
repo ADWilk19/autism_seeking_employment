@@ -37,6 +37,7 @@ st.markdown('''The purposes of me creating this app are threefold:
 1.	To share my experience of applying for work, including three case studies;
 2.	To highlight some of the barriers to entry for autistic people seeking employment; and
 3.	To propose strategies which might facilitate hiring managers, agency recruiters, HR personnel and colleagues working with autistic people to help them find and/or keep employment.
+
 Before I do that, let’s take a look at what autism is, how prevalent it is, and the current employment status of the autism population (i.e., those people diagnosed with autism).
 ''')
 st.markdown('***')
@@ -59,6 +60,7 @@ It is worth noting that there have been multiple theories regarding autism.  Cli
 
 There is a joke in the autism community which goes like this:
 >When you've met one autistic person, you've met one autistic person.
+
 Consequently, it's very difficult to be universally autism-friendly.\
     I've worked with autistic people whose sensory profile differs significantly from my own. \
 I'm photosensitive, so I often wear sunglasses when in meetings.  One autistic person I worked with didn't like this \
