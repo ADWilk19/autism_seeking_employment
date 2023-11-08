@@ -163,6 +163,7 @@ The first thing I noticed about the interviewer was a nasty gash on the side of 
     they had been playing with their dog and it was their carelessness (or words to that effect) which led to the dog clawing at\
     their face.  They asked me what autism was and how it affected me, so I gave them a synposis.  Their response was,
 >"So you can give it, but you can't take it."
+
 For those of you who didn't graduate magna cum loud-arse from the Clown College for the Comedically Challeged, \
                 that was a joke, or at least I hope it was because they certainly found it amusing.  I managed not to roll my eyes at their ignorance (Affability score = 2).
 
