@@ -94,7 +94,7 @@ In addition to the five senses in the image, above, there are two other senses t
 * Proprioception or body awareness; and
 * Vestibular, or balance.
 
-When it comes to sensory differences, people may be hyper-sensitive (over sensitive) to certain senses and hypo-sensitive (under sensitive to others).
+When it comes to sensory differences, people may be hyper-sensitive (over-sensitive) to certain senses and hypo-sensitive (under-sensitive) to others.
 
 I'm hyper-sensitive to touch, light and sounds that are high-pitched. As a consequence, I try to give people personal space in the hope that they reciprocate; \
     I sometimes wear sunglasses 😎 to take the worst of the glare from office lighting; and if I really need to concentrate I might wear noise-cancelling \
