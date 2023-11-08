@@ -277,6 +277,7 @@ st.write('''Part of the [national strategy for autistic children, young people a
     We want more autistic people who can and want to work to do so, and to ensure that those who have found a job are \
         less likely to fall out of work. We also want to show that employers have become more confident in hiring and \
         supporting autistic people, and that autistic people’s experience of being in work has improved."
+
 This is promising news, but what is the current state of employment?''')
 
 st.subheader('Percentage of people in employment by disability status: Q3 2021 📈')
