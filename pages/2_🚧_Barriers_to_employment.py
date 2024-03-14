@@ -65,6 +65,7 @@ st.markdown('''Consider the following phrases:
 6. Learn the ropes.
 7. A learning curve.
 8. By the book.
+
 What do they have in common?''')
 answers = st.selectbox('Choose an option from the dropdown list, below:', ('',  'These phrases should not be interpreted literally.',
                                                           'These phrases are part of a list which everyone working in business in the UK should know, according to Europe Language Jobs.',
