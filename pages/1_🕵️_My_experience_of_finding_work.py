@@ -22,7 +22,7 @@ st.warning('The following information might be triggering for some people.',icon
 
 # Intro
 st.markdown('## A bit about me')
-st.markdown('''Hello!  My name is Alex, and I was diagnosed with Asperger's Syndrome in 2012, aged 26.  I've worked in retail, \
+st.markdown('''Hello!  My name is Alex, and I was diagnosed with Asperger's Syndrome in 2012, aged 27.  I've worked in retail, \
 insurance, audit, financial services, training, and B2B marketing roles, and the purpose \
     of this section is for me to provide you with some examples of what it's like to apply/interview for employment as an autistic person.  \
         I will focus on three case studies where I was unsuccessful, for various reasons, to illustrate some the of the obstacles autistic people \
